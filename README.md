@@ -1,3 +1,4 @@
+# A shell script for automatic Gitlab project export
 ##### This script can either export your projects (all of them) and upload to an Azure Blob Storage. 
 
 Simple to using, just by passing few variables and this script can download (export) each project of each group of all your Gitlab account.
